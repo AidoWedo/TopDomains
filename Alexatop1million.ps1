@@ -1,4 +1,4 @@
-﻿# Author Richard Bevan
+﻿# Author AidoWedo
 # Powershell Script to Pull down top 1 million Alex Domains and select the top 10000 only
 # Replace c:\file\path\ with something that makes sense to you
 
