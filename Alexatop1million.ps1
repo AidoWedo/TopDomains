@@ -10,7 +10,7 @@ $csv = Import-Csv "C:\file\path\Output\alexatop1mill\top-1m.csv" -Header Rank,Do
 
 # Skip the top 2 lines which seems to be PSObject and Headers
 
-$content = Get-Content "C:\Users\richard.bevan\Documents\Output\alexatop10000.csv" | Select-Object -Skip 2
+$content = Get-Content "C:\file\path\Output\alexatop10000.csv" | Select-Object -Skip 2
 
 # Replace "aroundcontent" with nothing and output
 
